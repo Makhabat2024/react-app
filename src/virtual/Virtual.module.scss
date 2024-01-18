@@ -1,0 +1,41 @@
+.vitual_cards {
+	padding-block: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 30px;
+	.vitual_card {
+		width: 500px;
+		height: 500px;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-evenly;
+		align-items: flex-start;
+
+		h2 {
+			font-size: 46px;
+			font-style: normal;
+			font-weight: 700;
+			line-height: normal;
+		}
+		.buttonarrow {
+			width: 200px;
+			display: flex;
+			justify-content:center;
+			align-items: center;
+			gap: 30px;
+		}
+		img {
+			width: 180px;
+			height: 20px;
+			flex-shrink: 0;
+		}
+	}
+
+	.vitual_card2 {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+}

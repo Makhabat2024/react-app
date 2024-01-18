@@ -1,0 +1,64 @@
+.instructionInfo {
+    padding-block: 30px;
+	display: flex;
+	// justify-content: center;
+	align-items: center;
+
+	.content {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: 180px;
+
+		.content_box1 {
+			width: 500px;
+			height: 60px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: start;
+
+			h1 {
+				color: #fff;
+				font-family: Montserrat;
+				font-size: 36px;
+				font-style: normal;
+				font-weight: 700;
+				line-height: normal;
+			}
+
+			.box1_text {
+				display: flex;
+				p {
+					color: #fff;
+					font-family: "Montserrat";
+					font-size: 36px;
+					font-style: normal;
+					font-weight: 300;
+					line-height: normal;
+				}
+				img {
+					width: 180px;
+					height: 40px;
+					flex-shrink: 0;
+				}
+			}
+		}
+		.content_box2 {
+			width: 500px;
+			height: 200px;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			.description {
+				color: #fff;
+				font-family: Montserrat;
+				font-size: 16px;
+				font-style: normal;
+				font-weight: 400;
+				line-height: normal;
+			}
+		}
+	}
+}

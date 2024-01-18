@@ -1,0 +1,22 @@
+.footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	.footerLogo {
+		width: 180px;
+		height: 180px;
+	}
+	.left {
+		display: flex;
+	}
+	.middle {
+		display: flex;
+	}
+	.right {
+		display: flex;
+        .icon_box{
+            display: flex;
+        }
+	}
+}

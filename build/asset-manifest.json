@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39a81176.css",
+    "main.js": "/static/js/main.cbce06c1.js",
+    "static/media/last-photo.png": "/static/media/last-photo.10b3e1b799f38de192df.png",
+    "static/media/girl-photo.png": "/static/media/girl-photo.545861d0e3c41ac7c692.png",
+    "static/media/man-photo.png": "/static/media/man-photo.ebc304a9d86073bc7a2b.png",
+    "static/media/logo.png": "/static/media/logo.661cb513e6ef5db22b24.png",
+    "static/media/person-1.png": "/static/media/person-1.ad8a0ae9de3ae19a2e15.png",
+    "static/media/person-4.png": "/static/media/person-4.d808cff76698f1d27106.png",
+    "static/media/person-3.png": "/static/media/person-3.4e1a4481d60a839c0ff4.png",
+    "static/media/person-2.png": "/static/media/person-2.c7b39b76ed2d70b6922e.png",
+    "static/media/logo-name.svg": "/static/media/logo-name.258c04e6a77681d00a54ae0e85ef48d6.svg",
+    "static/media/location.svg": "/static/media/location.5a911016568d83f4fe1f246a1252189f.svg",
+    "static/media/phone-call.svg": "/static/media/phone-call.965aa98776c6a16f6bc404c9e229917a.svg",
+    "static/media/mail.svg": "/static/media/mail.cbbfd76f00c4fa815d17ce42446f99bc.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.68f6107d3c0e347a39fb9f9dbdec0f0c.svg",
+    "static/media/arrow-small-right.svg": "/static/media/arrow-small-right.77766fcc44ae334d356e7131e1876b7d.svg",
+    "static/media/chevron-small-down.svg": "/static/media/chevron-small-down.f60428a7d06e4a9f05f0070c875b0e17.svg",
+    "main.39a81176.css.map": "/static/css/main.39a81176.css.map",
+    "main.cbce06c1.js.map": "/static/js/main.cbce06c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a81176.css",
+    "static/js/main.cbce06c1.js"
+  ]
+}
